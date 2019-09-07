@@ -1,3 +1,4 @@
+> 文章配合论文由浅入深的介绍 LSTM实战教程，首先拟合 正弦曲线，然后预测彩票。
 # LSTM Neural Network for Time Series Prediction
 
 LSTM built using the Keras Python package to predict time series steps and sequences. Includes sine wave and stock market data.
